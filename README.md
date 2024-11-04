@@ -1,4 +1,4 @@
-# Python_EDA_projects
+# Diwali Sales Analysis
 This repository is all about the exploratory data analysis with the help of python.
 With the help of this projects, we can learn the numpy & pandas library along with matplotlib & seaborn introduction for visualization in python.
 The repository consists of 3 EDA projects:-
