@@ -1,9 +1,30 @@
 # Diwali Sales Analysis
-This repository is all about the exploratory data analysis with the help of python.
-With the help of this projects, we can learn the numpy & pandas library along with matplotlib & seaborn introduction for visualization in python.
-The repository consists of 3 EDA projects:-
-# 1) EDA of netflix in python
-# 2) EDA of Udemy in python 
-# 3) EDA of zomato in python
-# 4) EDA of diwali sales in python
-Thus the main aim of doing this projects is getting idea about how EDA works in python. Use of numpy & pandas for data cleaning, data transformation, insights generation , solving the business problems through EDA by etracting the only required data & much more.
+
+![Diwali Sales Analysis](path/to/your/image.png)
+
+## Project Summary
+
+This project analyzes Diwali sales data to uncover insights into sales trends, customer demographics, and other factors that contribute to sales growth during the Diwali season. The goal of the analysis is to identify key factors driving sales and provide actionable insights for better decision-making during holiday promotions.
+
+## Objective
+
+The objective of this project is to perform data analysis on Diwali sales data using Python to:
+
+- Understand customer purchasing patterns
+- Identify high-performing products and categories
+- Analyze the impact of demographics on sales
+- Discover insights to optimize future Diwali campaigns
+
+## Technologies Used
+
+The project was developed using Jupyter Notebook, and it relies on the following Python libraries:
+
+- **Numpy**: For numerical computations
+- **Pandas**: For data manipulation and analysis
+- **Matplotlib**: For data visualization
+- **Seaborn**: For advanced data visualization
+
+Ensure all these libraries are installed before running the analysis.
+
+
+
